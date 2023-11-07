@@ -1,5 +1,5 @@
-# Ex. No: 4 Creating Procedures using PL/SQL
-
+## Ex. No: 4 Creating Procedures using PL/SQL
+## DATE : 25:9:23
 ### AIM: To create a procedure using PL/SQL.
 
 ### Steps:
@@ -37,7 +37,6 @@ end;
 select * from empk;
 
 ```
-
 ### Output:
 ### CREATE PROCEDURE:
 ![db1](https://github.com/21005688/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/94747031/50d848ac-23ef-40be-b907-4f6039b92866)
